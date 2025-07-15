@@ -8,7 +8,7 @@
   },
   "site": {
     "title": "shyamkumar",
-    "description": "Developer Portfolio",
+    "description": " Salesforce Developer Portfolio",
     "seo": {
       "title": "shyamkumar - Developer Portfolio",
       "description": "Developer Portfolio of shyamkumar",
@@ -58,17 +58,17 @@
     ]
   },
   "experience": {
-    "title": "Professional Experience",
+    "title": "Senior Software Engineer",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "CGI",
+        "role": "Software Engineering Lead",
+        "date": "May 2021 - Present",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Devlop Aplication using Salesforce CRM Platform",
+          "I worked with Apex ,Flow ,salesforce CRM Analytics",
+          "Michelin CRM ANalytics",
+          "4 years"
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
